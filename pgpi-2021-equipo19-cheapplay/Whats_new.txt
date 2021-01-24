@@ -1,0 +1,37 @@
+PLAN DE GESTIÓN PARA DIRECCIÓN DEL PROYECTO
+
+Se han añadido:
+
+- Nueva petición de cambio con la id número 20.
+- Valores objetivos para las métricas de calidad tanto del producto como del proyecto.
+- Tras una comparación de los valores objetivos y obtenidos, se ha generado una escala de 3 colores que permitirá guiar al equipo en el ámbito que precise de corrección.
+- Se ha generado una nueva versión del documento como se puede ver en la página número 2 del mismo.
+-Se han añadido cambios en el apartado Anexo en el punto control de cambios.
+-Se ha añadido un riesgo más en el apartado plan de riesgos.
+
+SEGUIMIENTO Y CONTROL
+
+Se han añadido:
+
+- Un nuevo esquema visual de la tabla para la “Gestión y Control de la Calidad”.
+- Puntualización sobre la escala de colores y objetivos implementados en dicha tabla.
+- Cambio en el control de las adquisiciones añadiendo información de algunos pluggins utilizados y aclaraciones en cuanto al cambio del plan de gestión de adquisiciones y a la existencia de dicho plan como entregable en la EDT.
+- Explicación más detallada de todo el seguimiento del cronograma, de sus modificaciones y su solicitud de cambio correspondiente.
+- Gestión, validación y control del alcance supervisando el plan de línea del alcance y todos los entregables, todo ello de una forma muy explicativa, validando todos los criterios y planificación.
+-Se han reconstruido las gráficas variando el peso y el identificador de las mismas en el archivo de seguimiento y control.
+Se ha añadido correctamente las tablas de los costes bien definidas.
+
+
+METRICAS (GQM).xlsx	
+
+Se han añadido:
+
+- Valores objetivos para cada una de las métricas.
+- Una escala de 3 colores a través de dibujos que permitirán al equipo tener una rápida visión de lo que se debe corregir en próximos sprints.
+
+
+ACTAS DE REUNIONES
+
+Se ha añadido:
+
+Las actas de reuniones a las que se hace referencia en las observaciones del “feedback” sí estaban donde se indican en el apartado Anexos punto 10.3 en orden cronológico.
